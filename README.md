@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://kadapanavenumadhavareddy.github.io/ButtonComponnentLive/">
       Demo
     </a>
     <span> | </span>
@@ -89,4 +89,4 @@ npm run lint
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/kadapanavenumadhavareddy)
+- GitHub [@venu-madhava-reddy](https://github.com/kadapanavenumadhavareddy)
